@@ -1,0 +1,36 @@
+:root{
+	--ms-primary-color-dark: #051e34;
+}
+
+.cf-debug{
+	border: 1px solid red;
+}
+/* general */
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.box{
+	width: 200px;
+	height:200px;
+	border: 1px solid black;
+	margin: 30px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.red{
+	background-color: red;
+	color: white;
+}
+.blue{
+	background-color: blue;
+	color: white;
+}
+.orange{
+	background-color: orange;
+	color: black;
+}
+
+
+
